@@ -1,0 +1,34 @@
+.App-Container {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.sidebar {
+  height: 800px;
+}
+.post-card {
+  margin: 20px 50px;
+  min-width: 30rem;
+}
+.hashtag {
+  margin: 0px 3px;
+}
+.reactions {
+  /* width: 30rem; */
+  margin: 15px 0 0 0;
+}
+.create-post {
+  margin-top: 50px;
+  margin-left: 10%;
+  width: 80%;
+}
+.footer {
+  margin-bottom: 0%;
+}
+.welcomemassage{
+  margin:100px 0;
+}
+.spinner{
+  margin:10% 0;
+}
